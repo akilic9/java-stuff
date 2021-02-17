@@ -1,3 +1,3 @@
 # java-stuff
 
-Some java stuff done for practice or as homework.
+Some java stuff done as practice or homework.
